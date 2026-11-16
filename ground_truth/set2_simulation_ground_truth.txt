@@ -1,0 +1,11 @@
+MapID	Filename				Class
+01	Zmap_sim_01_strong_left.nii.gz	strong_left
+02	Zmap_sim_02_weak_right.nii.gz		weak_right
+03	Zmap_sim_03_strong_right.nii.gz	strong_right
+04	Zmap_sim_04_weak_right.nii.gz		weak_right
+05	Zmap_sim_05_moderate_right.nii.gz	moderate_right
+06	Zmap_sim_06_moderate_left.nii.gz	moderate_left
+07	Zmap_sim_07_moderate_left.nii.gz	moderate_left
+08	Zmap_sim_08_moderate_right.nii.gz	moderate_right
+09	Zmap_sim_09_weak_right.nii.gz		weak_right
+10	Zmap_sim_10_moderate_right.nii.gz	moderate_right
