@@ -1,7 +1,7 @@
 # LION-Z - version 1.0
 ## Simulated maps
 The folder contains:
-the simulation map generation file
+the simulation map generation file (sim_lang_map.py)
 the 50 different simulation maps in 5 sets (10 maps)
 
 
