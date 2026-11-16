@@ -1,1 +1,13 @@
+# LION-Z - version 1.0
+## Simulated maps
+The folder contains:
+the simulation map generation file
+the 50 different simulation maps in 5 sets (10 maps)
 
+
+-----------------------------------------------
+
+## Overview
+The bash script was developed to generate simulated language-related Z-maps with predefined patterns of hemispheric lateralization, providing the ground truth for test the performance of the LION-Z tool. For each run of bash script, ten maps were randomly generated from seven predefined lateralization classes: strong, moderate, and weak leftward lateralization; bilateral organization; and weak, moderate, and strong rightward lateralization. 
+
+-----------------------------------------------
